@@ -11,6 +11,7 @@ In my [$profile](https://gitlab.com/lfknudsen/pwsh-config), I have aliased `cd` 
 cd <location>
 cd ..
 cd ~
+cd \
 ```
 
 #### You don't need to escape whitespace:
